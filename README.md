@@ -9,8 +9,10 @@ Ao longo de 10 anos atuei em diferentes áreas, com experiência em rotinas admi
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) | ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 
 ### 🗄 Bancos de Dados  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) | ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)  
+
+### 📈 Análise  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) | ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
 
 ## 🌱 Atualmente Aprendendo
 - Automação de tarefas com Python 
@@ -23,10 +25,6 @@ Ao longo de 10 anos atuei em diferentes áreas, com experiência em rotinas admi
 
 ## 📫 Contato  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/natanaelpessoa) | [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5512982495111) | [![Email](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:natanaelperson94@gmail.com)
-
-
-
-
 
 
 <!--
