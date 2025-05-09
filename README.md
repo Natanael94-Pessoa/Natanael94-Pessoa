@@ -8,9 +8,13 @@ Ao longo de 10 anos atuei em diferentes áreas, com experiência em rotinas admi
 ## 🛠 Habilidades Técnicas
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) | ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 
+### 🗄 Bancos de Dados  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)  
+
 ## 🌱 Atualmente Aprendendo
-Automação de tarefas com Python
-SQL Avançado
+- Automação de tarefas com Python 
+- SQL Avançado
 
 ## 📊 Estatísticas do GitHub
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Natanael94-Pessoa&show_icons=true&theme=dracula)
