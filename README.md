@@ -4,9 +4,16 @@
 ## 📫 Contato  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/natanaelpessoa) | [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5512982495111) | [![Email](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:natanaelperson94@gmail.com)
 
-## 👨‍💻 Sobre Mim
-Cursando o primeiro semestre de Administração e em transição para a área de análise de dados, estou me especializando em **Power BI, Excel avançado, SQL e Python**. Já desenvolvi projetos de estudo focados em automação, tratamento, modelagem e análise de dados.
-Ao longo de 10 anos atuei em diferentes áreas, com experiência em rotinas administrativas e comerciais, incluindo prospecção, negociação e fechamento de contratos.
+👨‍💻 Sobre Mim
+Profissional em transição para a área de análise de dados, com mais de 10 anos de experiência em rotinas administrativas e comerciais. Atualmente cursando Administração e me especializando em Power BI, SQL, Python (incluindo automação de tarefas) e Excel Avançado.
+
+🛠️ Já desenvolvi soluções completas voltadas para dados e processos operacionais, como:
+
+Sistema Web para Contagem e Indicadores de Estoque: aplicação com Flask, login seguro, cadastro de lojas e produtos, relatórios de vendas por período e sugestão automática de reposição com base em estoque mínimo.
+
+Sistema Desktop de Controle de Produção: aplicação em Tkinter com banco de dados local e exportação automatizada para Excel com fórmulas, alertas e indicadores visuais.
+
+Esses projetos digitalizaram processos manuais, melhoraram a visibilidade operacional e geraram insights estratégicos para o abastecimento de lojas.
 
 ## 🛠 Habilidades Técnicas
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) | ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
