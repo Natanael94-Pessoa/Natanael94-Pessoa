@@ -5,11 +5,13 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/natanaelpessoa) | [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5512982495111) | [![Email](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:natanaelperson94@gmail.com)
 
 👨‍💻 Sobre Mim
+
 Analista de Dados Júnior com foco em Business Intelligence, automação de processos e análise de dados. Experiência prática no desenvolvimento de soluções que integram Python, SQL e Power BI para transformar dados em insights acionáveis.
 
 Minhas entregas envolvem ETL, modelagem de dados, visualização e criação de dashboards interativos, sempre orientados a indicadores de performance e suporte à tomada de decisão.
 
 🛠️ Projetos em Destaque
+
 Sistema Web para Contagem e Indicadores de Estoque
 Aplicação em Flask com autenticação, cadastro de lojas e produtos, relatórios de vendas por período e cálculo automático de reposição baseado em estoque mínimo.
 
