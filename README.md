@@ -1,5 +1,5 @@
 # Olá, eu sou Natanael Pessoa 👋
-📊 Analista de Dados | 🎓 Administração | 🐍 Python & SQL 
+📊 Analista de Dados | 🎓 Administração | 🐍 Python & SQL | Power BI 
 
 ## 📫 Contato  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/natanaelpessoa) | [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5512982495111) | [![Email](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:natanaelperson94@gmail.com)
